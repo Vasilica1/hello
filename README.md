@@ -6,4 +6,6 @@ git commit -m "message"-> save a snapshot of the currrent state of the repositor
 git status -> what's currently happening inside of my repository
 git push -> pushed my changes to GitHub server
 git commit -am "message" -> git commit and git add together
+git pull-> the opposite what git push did, take the changes the currently exist on GitHub and go ahead and pull the most recent changes down
+
 
