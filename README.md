@@ -18,3 +18,5 @@ git branch -> what branch I'm currently on and what branch exist in my repositor
 git checkout -b <newbranchname> -> create a new branch
 git checkout <branchname> -> switch to an branch that already exists
 git merge <branchname> -> take what is on the style branch (in our case) and merge to the main branch
+
+add a new line
